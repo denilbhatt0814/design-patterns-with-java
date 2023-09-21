@@ -1,0 +1,3 @@
+U001 lynx mypassword ADMIN
+U002 nobita mypassword1 USER
+U003 phil mypassword2 USER
